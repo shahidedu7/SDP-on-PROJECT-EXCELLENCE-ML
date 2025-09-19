@@ -1,0 +1,7 @@
+Complete Project deployment
+
+Step 1: Model Development - save as pickle file (model.pkl)
+Step 2: flask app development (app.py, index.html, model.pkl)
+Step 3: Run Flask App locally
+Step 4: Create GitHub Repository and push the code
+Step 5: Deploy on Render (Make it Live)
